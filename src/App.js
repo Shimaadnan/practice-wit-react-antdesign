@@ -8,7 +8,7 @@ const { Header } = Layout;
 
 function App() {
   return (
-    <Layout className="layout">
+    <Layout className="mainLayout">
       <Header>
       <HeaderSection/>
       </Header>
